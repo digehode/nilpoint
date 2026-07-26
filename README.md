@@ -1,6 +1,7 @@
 ## Fonts
 
 ### Kode Mono
+(Remove?)
 
 - Designed by Isa Ozler
 - Licensed under the SIL Open Font License, Version 1.1

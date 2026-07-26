@@ -33,8 +33,8 @@ skip = ["venv/"]
 skip_glob = ["**/migrations/*.py"]
 
 [tool.uv.sources]
-nilpoint = { path = "../nilpoint_core", editable = true }
 cypherpunk = { path = "../cypherpunk", editable = true }
+nilpoint = { path = "../nilpoint_core", editable = true }
 
 [dependency-groups]
 dev = [
